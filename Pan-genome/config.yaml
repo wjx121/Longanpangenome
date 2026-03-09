@@ -1,0 +1,8 @@
+ref:
+  "/tomato/00.ref/SL6.0.fa"
+fai:
+  "/tomato/00.ref/SL6.0.fa.fai"
+qrys:
+  "/tomato/00.qrys/{sample}.fa"
+graph_prefix:
+  "TOMSV"
