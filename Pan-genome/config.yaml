@@ -1,8 +1,8 @@
 ref:
-  "/tomato/00.ref/SL6.0.fa"
+  "/work/00.ref/T2T.fa"
 fai:
-  "/tomato/00.ref/SL6.0.fa.fai"
+  "/work/00.ref/T2T.fa.fai"
 qrys:
-  "/tomato/00.qrys/{sample}.fa"
+  "/work/00.qrys/{sample}.fa"
 graph_prefix:
   "TOMSV"
